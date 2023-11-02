@@ -1,0 +1,19 @@
+{
+  "name": "threejs-exercise",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9",
+    "vite-plugin-glsl": "^1.1.2"
+  },
+  "dependencies": {
+    "lil-gui": "^0.18.1",
+    "spectorjs": "^0.9.29",
+    "three": "^0.153.0"
+  }
+}
